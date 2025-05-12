@@ -1,1 +1,1 @@
-# -BioSync---AI-Powered-_Biodiversity_-Conservation_Platform
+# BioSync_AI_Powered_Biodiversity_Conservation_Platform

@@ -2,7 +2,7 @@
 
 > **"Turn every citizen into a conservationist with real-time biodiversity tracking, AI-driven species identification, and gamified community action."**
 
-🌐 [Live App](https://biosync-ai.web.app) | 🎥 [Demo Video](https://youtu.be/dVuTwqjnBNAv) | 👥 [Join the Community](https://bio-guardian-verse.lovable.app/#community) | 🧠 [Source Code](https://gitlab.com/biosync/core)
+🌐 [Live App](https://bio-guardian-verse.lovable.app/#community) | 🎥 [Demo Video](https://youtu.be/dVuTwqjnBNAv) |  | 🧠 [Source Code](https://gitlab.com/biosync/core)
 
 ---
 
@@ -70,8 +70,7 @@
 
 ## ⚙️ Try It Yourself
 
-- 🌐 **[Live Web App](https://biosync-ai.web.app)**  
-- 👥 **[Community Space on Lovable](https://bio-guardian-verse.lovable.app/#community)**  
+- 🌐 **[Live Web App](https://bio-guardian-verse.lovable.app/#community)**  
 - 🧠 **[Source Code](https://gitlab.com/biosync/core)**  
 - 🎥 **[Demo Video (YouTube)](https://youtu.be/dVuTwqjnBNAv)**  
 
@@ -109,7 +108,6 @@ We welcome developers, conservationists, educators, and designers!
 2. Clone and run `setup.sh`
 3. Start contributing 🌱
 
-Join our community: [https://bio-guardian-verse.lovable.app/#community](https://bio-guardian-verse.lovable.app/#community)
 
 ---
 

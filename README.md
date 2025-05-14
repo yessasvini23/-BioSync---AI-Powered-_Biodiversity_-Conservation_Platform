@@ -2,7 +2,7 @@
 
 > **"Turn every citizen into a conservationist with real-time biodiversity tracking, AI-driven species identification, and gamified community action."**
 
-🌐 [Live App](https://bio-guardian-verse.lovable.app/#community) | 🎥 [Demo Video](https://youtu.be/dVuTwqjnBNAv) |  | 🧠 [Source Code](https://gitlab.com/biosync/core)
+🌐 [Live App](https://bio-guardian-verse.lovable.app/#community) | 🎥 [Demo Video](https://youtu.be/dVuTwqjnBNAv) |  | 🧠 [Source Code](https://gitlab.com/yessasvini23/BioSync-AI-Powered-Biodiversity-Conservation-Platform)
 
 ---
 
